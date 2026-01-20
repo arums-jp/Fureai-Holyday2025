@@ -4,7 +4,9 @@
       "Skill(xlsx)",
       "Skill(xlsx:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(git status:*)",
+      "Bash(git add:*)"
     ]
   }
 }
