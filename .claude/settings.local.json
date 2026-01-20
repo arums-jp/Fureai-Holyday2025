@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(xlsx)",
+      "Skill(xlsx:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)"
+    ]
+  }
+}
