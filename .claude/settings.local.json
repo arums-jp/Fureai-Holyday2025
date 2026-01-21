@@ -9,7 +9,10 @@
       "Bash(git add:*)",
       "Bash(git commit -m \"$\\(cat <<''EOF''\n2025年度分析シート追加と年度比較資料作成\n\n- 教職員・児童生徒・保護者の2025年度ファイルに分析シートを追加\n- 年度比較資料（【年度比較】ふれあいホリデー分析.xlsx）を新規作成\n- 教職員自由記述の分析（教職員回答分析.md）を追加\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git push:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\n児童生徒・保護者の自由記述回答分析を追加\n\n- 児童生徒回答分析.md: 問4の1,559件の自由記述を分類・分析\n- 保護者回答分析.md: 問7の418件の自由記述を分類・分析\n- 教職員回答分析.md: 表記修正\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\n児童生徒・保護者の自由記述回答分析を追加\n\n- 児童生徒回答分析.md: 問4の1,559件の自由記述を分類・分析\n- 保護者回答分析.md: 問7の418件の自由記述を分類・分析\n- 教職員回答分析.md: 表記修正\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Skill(docx)",
+      "Skill(docx:*)",
+      "Bash(node create_docx.js:*)"
     ]
   }
 }
